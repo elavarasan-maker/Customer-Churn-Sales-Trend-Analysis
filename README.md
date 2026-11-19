@@ -1,0 +1,2 @@
+# Project 03 — E-commerce Sales Trend Analysis
+`ecommerce_sales.csv` is simulated educational order data, not real customer transactions. Run `python sales_analysis.py`. Includes date feature engineering, customer segment aggregation, pivot tables, monthly percentage change, and automatically generated business recommendations. Outputs: `monthly_revenue_trend.csv` and `business_recommendations.txt`.
